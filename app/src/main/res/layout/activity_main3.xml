@@ -15,7 +15,8 @@
         android:text="*"
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="334dp"
-        tools:layout_editor_absoluteY="462dp" />
+        tools:layout_editor_absoluteY="462dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button25"
@@ -26,7 +27,8 @@
         android:text="-"
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="334dp"
-        tools:layout_editor_absoluteY="522dp" />
+        tools:layout_editor_absoluteY="522dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button26"
@@ -37,7 +39,8 @@
         android:text="+"
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="334dp"
-        tools:layout_editor_absoluteY="586dp" />
+        tools:layout_editor_absoluteY="586dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button27"
@@ -48,7 +51,8 @@
         android:text="="
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="334dp"
-        tools:layout_editor_absoluteY="653dp" />
+        tools:layout_editor_absoluteY="653dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button23"
@@ -59,7 +63,8 @@
         android:text="/"
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="334dp"
-        tools:layout_editor_absoluteY="400dp" />
+        tools:layout_editor_absoluteY="400dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button16"
@@ -68,7 +73,8 @@
         android:backgroundTint="#100F0F"
         android:text="del"
         tools:layout_editor_absoluteX="123dp"
-        tools:layout_editor_absoluteY="400dp" />
+        tools:layout_editor_absoluteY="400dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button18"
@@ -80,7 +86,8 @@
         app:rippleColor="#121111"
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="232dp"
-        tools:layout_editor_absoluteY="400dp" />
+        tools:layout_editor_absoluteY="400dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button17"
@@ -89,7 +96,8 @@
         android:backgroundTint="#E30909"
         android:text="C"
         tools:layout_editor_absoluteX="15dp"
-        tools:layout_editor_absoluteY="400dp" />
+        tools:layout_editor_absoluteY="400dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button13"
@@ -98,7 +106,8 @@
         android:backgroundTint="#034906"
         android:text="0"
         tools:layout_editor_absoluteX="123dp"
-        tools:layout_editor_absoluteY="653dp" />
+        tools:layout_editor_absoluteY="653dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button15"
@@ -109,7 +118,8 @@
         android:text="."
         app:strokeColor="#0E0E0E"
         tools:layout_editor_absoluteX="232dp"
-        tools:layout_editor_absoluteY="653dp" />
+        tools:layout_editor_absoluteY="653dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button14"
@@ -118,7 +128,8 @@
         android:backgroundTint="#04DD0D"
         android:text="0."
         tools:layout_editor_absoluteX="15dp"
-        tools:layout_editor_absoluteY="653dp" />
+        tools:layout_editor_absoluteY="653dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button10"
@@ -127,7 +138,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="8"
         tools:layout_editor_absoluteX="123dp"
-        tools:layout_editor_absoluteY="462dp" />
+        tools:layout_editor_absoluteY="462dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button12"
@@ -136,7 +148,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="9"
         tools:layout_editor_absoluteX="232dp"
-        tools:layout_editor_absoluteY="462dp" />
+        tools:layout_editor_absoluteY="462dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button11"
@@ -145,7 +158,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="7"
         tools:layout_editor_absoluteX="15dp"
-        tools:layout_editor_absoluteY="462dp" />
+        tools:layout_editor_absoluteY="462dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button7"
@@ -154,7 +168,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="2"
         tools:layout_editor_absoluteX="123dp"
-        tools:layout_editor_absoluteY="586dp" />
+        tools:layout_editor_absoluteY="586dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button8"
@@ -163,7 +178,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="1"
         tools:layout_editor_absoluteX="15dp"
-        tools:layout_editor_absoluteY="586dp" />
+        tools:layout_editor_absoluteY="586dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button9"
@@ -172,18 +188,10 @@
         android:backgroundTint="#BD0DDC"
         android:text="3"
         tools:layout_editor_absoluteX="232dp"
-        tools:layout_editor_absoluteY="586dp" />
+        tools:layout_editor_absoluteY="586dp"
+        tools:ignore="MissingConstraints" />
 
-    <EditText
-        android:id="@+id/editTextTextMultiLine"
-        android:layout_width="389dp"
-        android:layout_height="61dp"
-        android:ems="10"
-        android:gravity="start|top"
-        android:inputType="textMultiLine"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        tools:layout_editor_absoluteY="104dp" />
+
 
     <Button
         android:id="@+id/button6"
@@ -192,7 +200,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="6"
         tools:layout_editor_absoluteX="232dp"
-        tools:layout_editor_absoluteY="522dp" />
+        tools:layout_editor_absoluteY="522dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button4"
@@ -201,7 +210,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="4"
         tools:layout_editor_absoluteX="15dp"
-        tools:layout_editor_absoluteY="522dp" />
+        tools:layout_editor_absoluteY="522dp"
+        tools:ignore="MissingConstraints" />
 
     <Button
         android:id="@+id/button5"
@@ -210,7 +220,8 @@
         android:backgroundTint="#BD0DDC"
         android:text="5"
         tools:layout_editor_absoluteX="123dp"
-        tools:layout_editor_absoluteY="522dp" />
+        tools:layout_editor_absoluteY="522dp"
+        tools:ignore="MissingConstraints" />
 
     <ImageView
         android:id="@+id/imageView3"
@@ -220,5 +231,16 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/kod_dvoichnyi_kod_nuli_edinitsy_programmirovanie_binarnyi" />
+    <EditText
+        android:id="@+id/editTextTextMultiLine"
+        android:layout_width="389dp"
+        android:layout_height="61dp"
+        android:ems="10"
+        android:gravity="start|top"
+        android:inputType="textMultiLine"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="104dp"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
