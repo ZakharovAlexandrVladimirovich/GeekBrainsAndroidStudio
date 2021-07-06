@@ -227,7 +227,6 @@
         android:layout_width="398dp"
         android:layout_height="722dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/kod_dvoichnyi_kod_nuli_edinitsy_programmirovanie_binarnyi" />
